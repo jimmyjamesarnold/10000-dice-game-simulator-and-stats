@@ -26,11 +26,17 @@ Check to see if any rolled dice create winning combinations. Various combination
 
 Possible scoring combinations:
   Any die that shows '1' is worth 100 points
+  
   Any die that shows '5' is worth 50 points
+  
   A Three-of-a-Kind is worth a hundred times the number on the dice, with the exception of three '1's, which is worth 1000 points.
+  
   Any additional matching numbers past three of a kind double the point worth (i.e. 4+4+4=400 while 4+4+4+4=800).
+  
   Three pairs is worth 1000 points.
+  
   A straight (1+2+3+4+5+6) is worth 1000 points.
+  
   A six-of-a-kind of 1's = 10000 points, instant win
 
 "Lock" any dice you want, provided they in a scoring combination. After your first six-dice roll, if you wish, you can roll smaller numbers of dice to continue scoring points. When you decide to stop rolling, record the points you've made during your turn on a score table.
