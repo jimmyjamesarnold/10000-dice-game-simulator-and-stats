@@ -47,4 +47,5 @@ Rolling a non-scoring combination causes you to lose all points gained in your t
 
 The game ends when one player reaches 10000 points.
 
-
+# Results
+Check out the jupyter notebook for my simulator and conclusions!
