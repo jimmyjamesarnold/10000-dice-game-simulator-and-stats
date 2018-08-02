@@ -12,6 +12,7 @@ So let's test it!
 
 Enter statistical inference. I've been taking courses on DataCamp recently and learned some neat strategies for simulating and analyzing data, visualizing those results and drawing conclusions from them. And I'm going to apply them here. One as good practice in coding up games and logic, and 2 for flexing my stats and plotting skills.
 
+![My image](https://github.com/jimmyjamesarnold/10000-dice-game-simulator-and-stats/blob/master/10000_Boxplots.JPG)
 
 # Results
 Check out the jupyter notebook for my simulator and conclusions!
