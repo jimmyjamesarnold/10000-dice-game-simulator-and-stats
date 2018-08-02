@@ -2,7 +2,7 @@
 First project on GitHub!
 
 A while back my mom taught me a fun dice game called 10,000 (10k). The rules are laid out clearly here. https://www.wikihow.com/Play-10000
-I will add that this is considered a 'folk' game with a lot of variations and house rules. I have coded this simulate our house rules.
+
 ![My image](https://github.com/jimmyjamesarnold/10000-dice-game-simulator-and-stats/blob/master/Rolling_Dice.jpg)
 
 # Rationale
