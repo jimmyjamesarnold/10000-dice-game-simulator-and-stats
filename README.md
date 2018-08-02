@@ -1,4 +1,4 @@
-# Simulating the dice game 10000 and running stats in Python 
+# 10000 simulator and stats in python 
 First project on GitHub!
 
 A while back my mom taught me a fun dice game called 10,000 (10k). The rules are laid out clearly here. https://www.wikihow.com/Play-10000
